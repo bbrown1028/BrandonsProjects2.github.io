@@ -9,6 +9,12 @@ background-image:linear-gradient(#ffffff, #90c7e3);
 margin: 0;
 }
 
+.video{
+ float: right ;
+ margin: 2em;
+    
+}
+
 
 .header{
 text-align: center;
@@ -387,6 +393,7 @@ background:  #dfedf8;
  
 
  
+
 
 
 
